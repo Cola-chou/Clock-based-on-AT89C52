@@ -231,7 +231,7 @@ void changeDataPros()
 // 蜂鸣器控制函数
 void beepTime()
 {
-		if(hour==23&&min==59&&(sec>=50&&sec<59)&&sec%2==0) // 23使59分50秒起2秒响一次共5次
+		if(min==59&&(sec>=50&&sec<59)&&sec%2==0) // 23使59分50秒起2秒响一次共5次
 		{
 			BEEP=0;
 			delay(1990);
