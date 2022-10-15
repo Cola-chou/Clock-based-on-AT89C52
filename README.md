@@ -6,3 +6,5 @@ MCU Course Design：Clock based on AT89C52/51
       2.倒计时模式，键盘key4触发，倒计时60s
 0点整点前10秒蜂鸣器响5次
 倒计时结束蜂鸣器响一次
+
+github仓库：https://github.com/Cola-chou/Clock-based-on-AT89C52.git
